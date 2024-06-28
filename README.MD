@@ -5,7 +5,7 @@ Projetinho de estudo. Coisa bem simples...
 - Instale o MemGPT:
 
 ```shell
-pip install pymemgpt
+pip install -U pymemgpt
 ```
 
 - Execute o MemGPT Server:
